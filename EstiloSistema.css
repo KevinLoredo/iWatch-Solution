@@ -2,7 +2,6 @@ body
 {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-   background: url();
+   background: url(imagen.jpg);
     background-size: cover;
     background-attachment: fixed;
-}
