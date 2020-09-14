@@ -33,9 +33,10 @@ input[type="text"],
 input[type="password"]
 {
     font-size: 20px;
-    width: 82%;
+    width: 91.61%;
     padding: 10px;
     border: none;
+}
 }
 
 .input-contenedor

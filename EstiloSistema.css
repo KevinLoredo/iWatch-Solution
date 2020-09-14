@@ -2,7 +2,7 @@ body
 {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-   background: url(imagen.jpg);
+    background: url(imagen.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -19,14 +19,15 @@ body
 .formulario
 {
     background: #fff;
-    margin-top: 150px;
+    margin-top: 10px;
+    font-size: 40px;
     padding: 1px;
 }
 
 h1
 {
     text-align: center;
-    color: #1a2537;
+    color: black;
     font-size: 40px;
 }
 
@@ -34,7 +35,7 @@ input[type="text"],
 input[type="password"]
 {
     font-size: 20px;
-    width: 82%;
+    width: 91.6%;
     padding: 10px;
     border: none;
 }
@@ -45,9 +46,42 @@ input[type="password"]
     border: 1px solid #aaa;
 }
 
-.icon
+.iconNomb
 {
     min-width: 50px;
+    font-size: 20px;
+    text-align: center;
+    color: #999;
+}
+
+.iconDirec
+{
+    min-width: 50px;
+    font-size: 24px;
+    text-align: center;
+    color: #999;
+}
+
+.iconCiud
+{
+    min-width: 50px;
+    font-size: 22px;
+    text-align: center;
+    color: #999;
+}
+
+.iconTel
+{
+    min-width: 50px;
+    font-size: 24px;
+    text-align: center;
+    color: #999;
+}
+
+.iconApple
+{
+    min-width: 50px;
+    font-size: 28px;
     text-align: center;
     color: #999;
 }
